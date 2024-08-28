@@ -1,7 +1,7 @@
 # odin-recipes
 The Odin Project Lab - Odin-Recipes
 
-August 6 2024
+August, 6 2024
 Duval Le Blanc
 
 This Repo is for the The Odin Project.
@@ -11,7 +11,7 @@ put together.
 The learned skills before this project were on the html boilerplate, git, and html elements. 
 
 
-August 18 2024 - Project Complete
+August, 18 2024 - Project Complete
 
 This is the HTML Project for the Foundations Portion of The Odin Project.
 The site is utilizing href for images, it has multiple pages to manuever to using href.
