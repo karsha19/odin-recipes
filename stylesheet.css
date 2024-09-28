@@ -3,5 +3,10 @@
 .heading {
 
     color: coral;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Courier New', Courier, monospace; 
+}
+
+.button {
+
+    display: block;
 }
